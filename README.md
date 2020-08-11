@@ -1,6 +1,6 @@
 # Employee-Management-System
 - Using SpringBoot-web, reference:遇见狂神说(bilibili)
-- Summer vacation after the second semester of junior year
+- Completion time: Summer vacation after the second semester of junior year
 
 # 介紹
 - 看影片實作的練習項目
